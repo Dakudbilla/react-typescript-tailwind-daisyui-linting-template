@@ -2,4 +2,4 @@
 This is a template for building a react application.
 The base template has linting with prettier and eslint setup
 
-It has reduxtoolkit for state management
+It has Redux toolkit for state management
